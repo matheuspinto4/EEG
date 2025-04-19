@@ -26,6 +26,9 @@
 * **Carga cognitiva:**  
   * Diferença no desempenho entre palavras congruentes e incongruentes.  
 
+
+  http://pet.inf.ufpr.br/stroop/
+
 ### **Frequências de Interesse:**
 * Ondas `teta` (4-7 Hz) → `Aumentam` em momentos de conflito cognitivo.  
 * Ondas `alfa` (8-12 Hz) → Maior ativação pode indicar `maior esforço inibitório`.  
@@ -56,6 +59,7 @@
 * **Tempo de reação:** 
     * Como a atenção afeta a velocidade das respostas.
 
+https://www.psytoolkit.org/experiment-library/sart2.html
 ### **Frequências de Interesse:**
 * Ondas `teta` (4-7 Hz) → `Aumentam` quando a atenção está sustentada.
 
