@@ -12,10 +12,10 @@
 - os dados foram normalizados e usados 3 métodos de machine learning (Random forest, Support Vector Machine, K Nearest Neighbors)
 - os dados de 18 pessoas foram usados para treinar e de 3 foram usados para testar
 
-### Resultados
+### Resultado
 - O KNN foi o mais eficiente chegando a pouco mais de 64% de acertividade
 - também foi visto que uma janela de 20 segundos após o inicio da distração foi mais eficiente em relação a de 30
 
-### Links
+### Link
 - https://dl.acm.org/doi/10.1145/3605495.3605790
 
