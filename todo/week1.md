@@ -15,6 +15,6 @@
     - escrever os argumentos contra e a favor
 - Contar como foi a medição na semana de prova
 - Cobrar o espaço na nuvem 
-- Colocar mais coisas para falar com ele 
+- Comentar de que não temos acesso aos artigos de IEEE e ACM 
 ## Escrever o README (Matheus)
 - Deixar bonito para o público.
