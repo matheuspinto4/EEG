@@ -26,3 +26,4 @@
 - Talvez utilizar o dataset com os nossos canais para treinar seja uma boa.
 ### Links:
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9024211
+
