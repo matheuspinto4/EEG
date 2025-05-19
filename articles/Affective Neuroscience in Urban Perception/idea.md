@@ -5,6 +5,7 @@
 ## Tendências:
 ![alt text](image.png)
 ![alt text](image-1.png)
+![alt text](image-2.png)
 ## Ideia central:
 Investigar como **odores ambientais** (agradáveis como lavanda, ou desagradáveis como lixo ou fumaça) influenciam a **percepção emocional de segurança** em cenários urbanos simulados, usando EEG para detectar **respostas de ameaça ou tranquilidade**.
 
