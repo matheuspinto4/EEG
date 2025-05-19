@@ -16,6 +16,16 @@
 - O KNN foi o mais eficiente chegando a pouco mais de 64% de acertividade
 - também foi visto que uma janela de 20 segundos após o inicio da distração foi mais eficiente em relação a de 30
 
+### Aplicação
+Esse artigo está proximo do que haviamos pensado inicialmente para nossa pesquisa, para aplicação basta criarmos os testes de concentração, como provas, videoaula, com alguma tarefa para o voluntário, e partindo disso criar distrações internas para tentar entender elas usando um ou mais métodos de aprendizado de maquinas para tentar identificar padrões.
+Seria interesante realizar a pesquisa com relação as distrações internas a fim de comparar dentre diversos métodos de aprendizado qual gera mais interesse e foco do voluntário
+
+#### Possíveis testes
+* Aula com slides
+* Aula expositiva
+* Aula interativa
+
+gerando as distrações dando alguma tarefa secundária para os voluntários
+
 ### Link
 - https://dl.acm.org/doi/10.1145/3605495.3605790
-
