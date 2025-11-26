@@ -1,3 +1,6 @@
+
+
+
 # Análise da Eficácia da Aromaterapia Usando EEG
 
 ##  1. Desenho Experimental Básico
@@ -78,4 +81,35 @@ Análise das principais bandas cerebrais:
 - Aplicar **questionários subjetivos** (ex: escala de estresse, foco, bem-estar)
 - Medir **variabilidade da frequência cardíaca (HRV)** junto do EEG
 - Realizar testes em **diferentes horários do dia** para observar efeitos do ritmo circadiano
+
+
+---
+
+## 6. Aplicação
+
+### Grupos:
+  - Pessoas com cheiro que sabem e não sabem.
+  - Pessoas sem cheiro que sabem e não sabem.
+
+### Coisas para checar antes de iniciar:
+  - Privacidade na sala. (cortina, reserva da sala).
+  - Temperatura da sala.
+  - Nada de cheiros diversos na sala.
+  - Nada de perfume.
+  - Essência já preparada.
+
+### Passos:
+  - Instalar equipamento na pessoa e esperar (5 min)
+  - Equanto isso, explicar à ela o experimento.
+    - Dar um oi para a pessoa, um pouco de comédia para deixar mais à vontade.
+    - Se ela não pode saber do cheiro: 
+      - "Iremos realizar algumas atividades..."
+      - Primeira passada das atividades sem cheiro
+      - Segunda passada, com cheiro.
+    - Se ela pode saber do cheiro:
+      - "Iremos realizar algumas atividades..."
+      - Primeira passada sem o cheiro
+      - Segunda passado, com o cheiro ou não, depende do grupo.
+  - Confirmar a confienciabilidade da pessoa.
+
 
