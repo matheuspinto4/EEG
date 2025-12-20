@@ -1,3 +1,3 @@
-# **Pesquisa EEG**
+# **NERO-LEARN**
 
-Uma pesquisa feita dentro da FGV-EMAp com foco em eletroencefalogramae machine learning.
+Repositório para armazenamento de pesquisas feitas dentro da FGV-EMAp com foco em eletroencefalograma e machine learning.
